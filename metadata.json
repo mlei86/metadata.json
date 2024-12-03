@@ -1,6 +1,11 @@
 {
   "name": "Common Sense",
-  "symbol": "SENSE",
-  "description": "Common Sense Coin ($SENSE): A cryptocurrency promoting rationality, logic, and balance in a chaotic world. Join the movement to reward critical thinking and support evidence-based initiatives in Web3.",
-  "image": "https://lh5.googleusercontent.com/dzVwAVQ6ffbFTlzFKEFQQvQReJvP_jie6FZee-3i4fbNOtVXFWRoD8YF9prytuWoV6DASJkwU40eRgwBT5Ml9gc=w1280"
+  "description": "A unique token representing the value of common sense.",
+  "image": "https://raw.githubusercontent.com/mlei86/metadata.json/6ada8ec85e5f1be11db77f164e8d6a38504404a6/Untitled%20design%20(1).png",
+  "attributes": [
+    {
+      "trait_type": "Symbol",
+      "value": "SENSE"
+    }
+  ]
 }
